@@ -423,7 +423,7 @@
 
         <!-- 🔘 Tombol -->
         <div class="button-group mt-3">
-          <a type="button" class="btn btn-secondary px-3" id="backBtn" href="index.php">Back</a>
+          <a type="button" class="btn btn-secondary px-3" id="backBtn" href="index.php">Kembali</a>
           <button type="submit" class="btn btn-primary px-4">Masuk</button>
         </div>
       </form>
